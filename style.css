@@ -40,7 +40,7 @@ h1 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 1000px;
+  width: 900px;
   height: 200px;
   margin: 3rem;
   border-radius: 10px;
@@ -52,7 +52,7 @@ h1 {
 .box a{
   
     text-decoration-line: none;  
-    font-weight: 800px;
+    font-weight: 600px;
 }
 
 .box a:hover{
